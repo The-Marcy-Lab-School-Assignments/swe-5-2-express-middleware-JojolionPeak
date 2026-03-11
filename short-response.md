@@ -10,7 +10,7 @@ Your responses will each be evaluated out of 6 points. You can earn 3 points for
 
 Express is described as a framework that "wraps" `node:http`. What does that mean? Compare how you would handle a `GET /api/users` request in `node:http` versus in Express. What does Express do for you automatically that you had to write manually with `node:http`?
 
-**Your answer here**:
+This means that Express is built upon node:http, and instead of replacing the functionality of node, it simply builds upon node's frameworks.
 
 ---
 
